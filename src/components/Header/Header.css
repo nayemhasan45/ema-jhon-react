@@ -1,0 +1,32 @@
+.header {
+    background-color: #1C2B35;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-left: 110px;
+}
+
+.anchor {
+    padding-right: 110px;
+}
+
+.anchor a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.anchor-2 {
+    padding: 0px 32px;
+}
+
+.anchor-3 {
+    padding-right: 32px;
+}
